@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Suellene de Oliveira (Sol) 👋</h1>
-<h3 align="center">Estudante de Sistemas de Informação | TI, Dados e IA Aplicada</h3>
+<h3 align="center">Estudante de Sistemas de Informação | TI,Dados e IA Aplicada</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sol-de-oliveira-29856bba/">
@@ -18,7 +18,7 @@ Estudante de Sistemas de Informação (UNISUAM), em transição de carreira para
 
 Gosto de aprender testando na prática: pego um problema real, quebro em partes, e vou construindo a solução enquanto entendo a teoria por trás.
 
-### 🔭 Atualmente focada em
+### 🔭 Focada em
 
 - Fundamentos de programação, banco de dados e sistemas operacionais (2º período de SI)
 - IA aplicada e automação (RPA)
