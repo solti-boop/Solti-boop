@@ -14,7 +14,7 @@
 
 ### 🎯 Sobre mim
 
-Estudante de Sistemas de Informação (UNISUAM), em transição de carreira para TI com foco em **dados e IA aplicada**.Venho da área de marketing digital, onde já trabalho com dados de performance e automação de processos, e agora aplico essa mesma lógica analítica no desenvolvimento e na tecnologia.
+Estudante de Sistemas de Informação (UNISUAM), em transição de carreira para TI com foco em **dados e IA aplicada**. Venho da área de marketing digital, onde já trabalho com dados de performance e automação de processos, e agora aplico essa mesma lógica no desenvolvimento e na tecnologia.
 
 Gosto de aprender testando na prática: pego um problema real, quebro em partes, e vou construindo a solução enquanto entendo a teoria por trás.
 
