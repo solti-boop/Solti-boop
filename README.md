@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Suellene de Oliveira (Sol) 👋</h1>
+<h1 align="center">Olá, me chamo Suellene de Oliveira (Sol) 👋</h1>
 <h3 align="center">Estudante de Sistemas de Informação | TI,Dados e IA Aplicada</h3>
 
 <p align="center">
