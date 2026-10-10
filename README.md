@@ -33,7 +33,7 @@ Gosto de aprender testando na prática: pego um problema real, quebro em partes,
 
 ### 📌 Projetos em destaque
 
-- _Em construção, primeiro projeto sendo documentado._
+- [Métricas de Tráfego Pago](https://github.com/solti-boop/metricas-trafego-pago): script em Python que calcula CTR, CPC, CPA e ROAS de campanhas
 
 ### 📫 Como me encontrar
 
