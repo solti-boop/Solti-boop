@@ -14,14 +14,15 @@
 
 ### 🎯 Sobre mim
 
-Estudante de Sistemas de Informação (UNISUAM), em transição de carreira para TI com foco em **dados e IA aplicada**. Venho da área de marketing digital, onde já trabalho com dados de performance e automação de processos, e agora aplico essa mesma lógica no desenvolvimento e na tecnologia.
+Estudante de Sistemas de Informação (UNISUAM), em transição de carreira para TI com foco em **dados e tecnologia**. Venho da área de marketing digital, onde já trabalho com dados de performance e automação de processos, e agora aplico essa mesma lógica no desenvolvimento e na tecnologia.
 
 Gosto de aprender testando na prática: pego um problema real, quebro em partes, e vou construindo a solução enquanto entendo a teoria por trás.
 
 ### 🔭 Focada em
 
 - Fundamentos de programação, banco de dados e sistemas operacionais (2º período de SI)
-- IA aplicada e automação (RPA)
+- Python aplicado a dados de marketing e automação
+- Segurança da informação e IA aplicada (em estudo)
 - Primeiro projeto documentado no GitHub
 
 ### 🛠️ Tecnologias e ferramentas
